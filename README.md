@@ -10,3 +10,8 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+
+Deployed to: https://sticksword.github.io/angular-deployment-tutorial/
+
+Thanks to @shinwang1 => https://github.com/shinwang1/Angular-deployment-tutorial
